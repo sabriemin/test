@@ -9,9 +9,9 @@ const express = require("express");
 require("./util/eventLoader")(client);
 
 client.ayarlar = { 
-  "safetoken": "ODE3OTI2MTM1ODYxMDg0MTkw.YEQnEw.Josw0GJUQ23mVg_rTmI9E224Dus", 
+  "safetoken": "..", 
   "prefix": "*", 
-  "sahip": "257963191269588993" 
+  "sahip": ".." 
 }
 
 
